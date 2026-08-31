@@ -28,6 +28,10 @@ A premium, hand-crafted restaurant HTML template built with clean semantic marku
 - **Contact form** -- validation-ready with simulated submission feedback
 - **Accessible** -- semantic HTML5, ARIA labels, keyboard-friendly navigation
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Design System
 
 | Token | Value |
